@@ -11,5 +11,6 @@ as simple as this:
 var u : UCCTransliteration = UCCTransliteration()
 
 u.transliterate("большой рамки") // returns "BOLSHOI RAMKI"
+u.transliterate("μεγάλη πλαίσιο") // returns "megali plaisio"
 u.transliterate("Fıstıkçı Şahap") // returns "Fistikci Sahap"
 ```
