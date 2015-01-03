@@ -8,7 +8,7 @@ Clean and focused Transliteration class for Swift
 as simple as this:
 
 ```swift
-var u : UCCTransliteration = UCCTransliteration()
+var u = UCCTransliteration()
 
 u.transliterate("большой рамки") // returns "BOLSHOI RAMKI"
 u.transliterate("μεγάλη πλαίσιο") // returns "megali plaisio"
