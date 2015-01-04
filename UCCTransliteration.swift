@@ -43,7 +43,6 @@ class UCCTransliteration: NSObject {
     private func tChar(s:String) -> String
     {
         var convertDictionary : NSDictionary = NSDictionary(objects: self.latins, forKeys: self.nonLatins)
-        var lcs : String = s.lowercaseString as String!
         return convertDictionary[s] as String!
     }
     
