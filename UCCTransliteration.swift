@@ -1,6 +1,6 @@
 //
 //  UCCTransliteration.swift
-//  UCCTransliterationDemo
+//  UCCTransliteration
 //
 //  Created by Ulas Can Cengiz on 03/01/15.
 //  Copyright (c) 2015 ProGeek. All rights reserved.
