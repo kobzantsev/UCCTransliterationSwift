@@ -3,7 +3,7 @@ UCCTransliterationSwift
 
 Clean and focused Transliteration class for Swift
 
-For Objective - C version, please check [here](https://github.com/ulsc/UCCTransliteration)
+For Objective-C version, please check [here](https://github.com/ulsc/UCCTransliteration)
 
 Usage
 -----
